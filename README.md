@@ -18,4 +18,4 @@
 
   Nobeigumā:
 
-  Man patika veidot savu mazu projektu tieši tāpēc kā izveidoju kaut ko priekš sevis un uzzināju klāt jaunas, interesējošas lietas. Godīgi sakot, ja ne šīs kurss diezvai es ķertos klāk Pyton valodai, bet tomēr saprotu, ka šīs projekts ir tālu no tēmām, ko apskatījām studiju programmā. Ceru, ka mana interpritācija automatizēšanas procesā būs pieņemta.
+  Man patika veidot savu mazu projektu tieši tāpēc kā izveidoju kaut ko priekš sevis un uzzināju klāt jaunas, interesējošas lietas. Godīgi sakot, ja ne šīs kurss diezvai es ķertos klāk Pyton valodai, bet tomēr saprotu, ka šīs projekts ir tālu no tēmām, ko apskatījām studiju programmā. Ceru, ka mana interpritācija automatizēšanas procesā būs pieņemta. :)
